@@ -58,9 +58,9 @@
 
 
 
-<h3>NTEEJ-MD Stats</h3>
+<h3>WATSON-MD Stats</h3>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Watson-xd&repo=WATSON-MD-&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-MD&repo=WATSON-MD-&theme=chartreuse-dark)
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
